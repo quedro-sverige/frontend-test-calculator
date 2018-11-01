@@ -1,5 +1,5 @@
 # Instruktioner för kodtest, frontend
-##### Läs hela detta dokument innan du börjar koda.
+#### Läs hela detta dokument innan du börjar koda!
 
 Detta kodtest innehåller en HTML-fil och en JS-fil. HTML-filen innehåller ett formulär där en användare kan fylla i lite information om sig själv, för att sedan beräkna vilken lön de kommer få efter skatt. Öppna HTML-filen i en browser för att se gränssnittet.
 
