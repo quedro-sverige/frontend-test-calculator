@@ -34,7 +34,7 @@ Tjänar man mer än 45 000 kr betalar man även 50% skatt på all lön mell
 ## Krav
 - Du får endast använda javascript för detta test. Inga ramverk, bibliotek eller dylikt.
 - Du behöver inte validera formuläret
-- Du behöver inte läga nån tid på styling/css 
+- Du behöver inte lägga nån tid på styling/css 
 
 ## Följande är vad vi kommer fästa uppmärksamhet på
 - Läsbarhet
